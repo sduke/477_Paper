@@ -1,0 +1,530 @@
+html {
+	max-width: 100%;
+	}
+	
+header {
+	padding-left: 150px;
+	padding-top: 10px;
+	}
+	
+#UNL {
+	font-family: 'Oswald', sans-serif;
+	color: #B22222;
+	text-decoration: none;
+}
+
+#UNL:hover {
+	color: #280000 ;
+	}
+
+#silhouette {
+	height: 20px;
+	width: 20px;
+	padding-left: 480px;
+	}
+
+#login {
+	font-family: 'Oswald', sans-serif;
+	color: #B22222;
+	text-decoration: none;
+	padding-right: 40px;
+}
+
+#login:hover {
+	color: #280000 ;
+	}
+
+#Search {
+	font-family: 'Oswald', sans-serif;
+	color: gray;
+	text-decoration: none;
+}
+.input[type=text] {
+    width: 130px;
+	border-color: gray;
+}
+
+br {
+	color: #A9A9A9;
+	}
+
+hr {
+	color: #A9A9A9;
+	}
+
+#name {
+	padding-left: 150px;
+	padding-bottom: 20px;
+}
+
+#N {
+	height: 75px;
+	width: 75px;
+	}
+
+#cas {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	}
+
+#head-nav {
+	background: #696969;
+	}
+	
+#nebraska1 {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	text-decoration: none;
+	padding-left: 150px;
+	}
+#nebraska2 {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+	}
+
+#bars {
+	height: 20px;
+	width: 20px;
+	padding-top: 15px;
+	}
+
+#red-nav {
+	background: #C80000;
+	padding-left: 150px;
+	padding-bottom: 10px;
+	}
+
+#link {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	border-left-style: solid;
+	border-left-color: #B22222;
+	border-left-width: 2px;
+	}
+	
+#link1 {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	border-left-style: solid;
+	border-left-color: #B22222;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-color: #B22222;
+	border-right-width: 2px;
+	}
+	
+#link:hover {
+	background-color: #B22222;
+	}
+	
+#link1:hover {
+	background-color: #B22222;
+	}
+
+#pic {
+	width: 100%;
+	z-index: -1;
+	}
+	
+#title {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+	background-image: url("http://news.unl.edu/sites/default/files/media/new-splash-promo.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	position: relative;
+	top: -95px;
+	}
+
+h2 {
+	position: relative;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	}
+	
+#info{
+	font: Times New Roman;
+	font-size: 20px;
+	position: relative;
+	top: -150px;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 150px;
+	line-height: 32px;
+	color: #383838;
+	}
+
+#footer1 {
+	background-image: url("http://reviews-bonuses.net/wp-content/uploads/2015/04/Free-medium-dark-Tileable-Pattern-Website-Background.jpg");
+	z-index: -1;
+	height: 400px;
+	}
+	
+#english {
+	font-family: 'Oswald', sans-serif;
+	position: relative;
+	padding-left: 200px;
+	top: 20px;
+	color: #D0D0D0;
+	line-height: 18px;
+	width: 250px;
+	}
+	
+#doe {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #D0D0D0;
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	}
+
+#fb {
+	height: 20px;
+	width: 20px;
+	position: relative;
+	top: -175px;
+	left: 650px;
+	}
+	
+#social {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #D0D0D0;
+	position: relative;
+	top: -175px;
+	left: 655px;
+	}
+	
+#social:hover {
+	color: white;
+	}
+	
+#tw {
+	height: 18px;
+	width: 18px;
+	position: relative;
+	top: -150px;
+	left: 500px;
+	}
+	
+#at {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #D0D0D0;
+	position: relative;
+	top: -150px;
+	left: 505px;
+	}
+	
+#at:hover {
+	color: white;
+	}
+	
+#related {
+	font-family: 'Oswald', sans-serif;
+	position: relative;
+	top: 15px;
+	color: #D0D0D0;
+	position: relative;
+	top: -280px;
+	left: 950px;
+	line-height: 30px;
+	}
+	
+#rl {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #D0D0D0;
+	padding-left: 40px;
+	padding-top: 18px;
+	}
+	
+#ce {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #D0D0D0;
+	position: relative;
+	top: -10px;
+	}
+	
+#ce:hover {
+	color: white;
+	}
+	
+#footer2 {
+	background-color: #282828;
+	position: relative;
+	top: -20px;
+	line-height: 30px;
+	height: 650px;
+	}
+	
+#con {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #D0D0D0;
+	padding-top: 20px;
+	padding-left: 240px;
+	}
+	
+#fb1 {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#at2 {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#yt {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#ig {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#li {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#pi {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#sc {
+	height: 20px;
+	width: 20px;
+	padding-left: 190px;
+	position: relative;
+	top: -5px;
+	}
+	
+#na {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #D0D0D0;
+	padding-left: 5px;
+	position: relative;
+	top: -5px;
+	}
+	
+#na:hover {
+	color: white;
+	}
+
+#campus {
+	font-family: 'Oswald', sans-serif;
+	position: relative;
+	top: 15px;
+	color: #D0D0D0;
+	position: relative;
+	top: -280px;
+	left: 650px;
+	line-height: 30px;
+	}
+	
+#camp {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #D0D0D0;
+	position: relative;
+	top: -10px;
+	}
+	
+#cp {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #D0D0D0;
+	position: relative;
+	top: -20px;
+	left: -40px;
+	}
+	
+#cp:hover {
+	color: white;
+	}
+	
+#policies {
+	font-family: 'Oswald', sans-serif;
+	position: relative;
+	top: 15px;
+	color: #D0D0D0;
+	position: relative;
+	top: -570px;
+	left: 1000px;
+	line-height: 30px;
+	}
+	
+#pol {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #D0D0D0;
+	position: relative;
+	top: -10px;
+	}
+	
+#tip {
+	width: 50px;
+	}	
+	
+#pl {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #D0D0D0;
+	position: relative;
+	top: -20px;
+	left: -40px;
+	}
+	
+#pl:hover {
+	color: white;
+	}
+	
+#seal {
+	width: 400px;
+	position: relative;
+	top: -50px;
+	left: 400px;
+	}
+	
+#what {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	}
+	
+#what1 {
+	font: Times New Roman;
+	font-size: 20px;
+	position: relative;
+	top: -150px;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 150px;
+	line-height: 32px;
+	color: #383838;
+	}
+	
+#what2 {
+	font: Times New Roman;
+	font-size: 20px;
+	position: relative;
+	top: -150px;
+	padding-left: 150px;
+	padding-right: 150px;
+	line-height: 32px;
+	color: #383838;
+	}
+	
+#wl {
+	color: #B22222;
+	text-decoration: none;
+	}
+	
+#wl:hover {
+	color: #280000 ;
+	}
+	
+#wis {
+	padding-right: 150px;
+	width: 500px;
+	position: relative;
+	top: -150px;
+	}
+	
+#wis.wrap {
+	float: right;
+	margin: 20px;
+	}
+	
+#matt {
+	padding-left: 130px;
+	width: 500px;
+	position: relative;
+	top: -150px;
+	}
+	
+#matt.wrap {
+	float: left;
+	margin: 20px;
+	}
+	
+#what3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	position: relative;
+	top: -100px;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 100px;
+	line-height: 32px;
+	}
+	
+#what4 {
+	font: Times New Roman;
+	font-size: 20px;
+	position: relative;
+	top: -100px;
+	padding-left: 150px;
+	padding-right: 150px;
+	line-height: 32px;
+	color: #383838;
+	}
+	
+#dhn {
+	display: block;
+    margin: auto;
+    width: 400px;
+	padding-bottom: 20px;
+	}
